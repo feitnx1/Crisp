@@ -13,7 +13,7 @@
 - **Community:** Connect with fellow Discord enthusiasts who share your interests and get to know the creators behind the bot.
 - **Feedback:** Help us shape the bot by providing valuable feedback and suggestions to make it even better.
 
-Additionally, make sure to check out our [Wiki](link-to-wiki) for comprehensive documentation and answers to frequently asked questions. It's a valuable resource for bot usage and development.
+Additionally, make sure to check out our [Wiki](https://github.com/eitnx1/Crisp/wiki) for comprehensive documentation and answers to frequently asked questions. It's a valuable resource for bot usage and development.
 
 
 subukan ko mag regular update
