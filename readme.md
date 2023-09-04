@@ -18,5 +18,5 @@ Additionally, make sure to check out our [Wiki](https://github.com/eitnx1/Crisp/
 
 subukan ko mag regular update
 
-
+<img src="https://discordapp.com/api/guilds/1003385214246072331/widget.png?style=banner1" alt="Discord Banner 1"/>
 join https://discord.gg/F5QSprVnE7 <- if you want to help me or want to see the bot.. whatever
