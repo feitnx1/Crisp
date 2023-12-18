@@ -15,4 +15,11 @@
 
 > Additionally, make sure to check out our [Wiki](https://github.com/eitnx1/Crisp/wiki) for comprehensive documentation and answers to frequently asked questions. It's a valuable resource for bot usage and development.
 
-<img src="https://discordapp.com/api/guilds/1003385214246072331/widget.png?style=banner2" alt="Discord Banner 2"/>
+| ![github-shield-badge]    | GitHub Followers                           |
+| :---------------------------------------- | :----------------------------------------------------------------------------------------------------------------- |
+| [![][discord-shield-badge]][discord-link] | Join our Discord community! |
+
+[discord-link]: https://discord.gg/deletedserver
+[discord-shield-badge]: https://img.shields.io/discord/1003385214246072331?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge
+
+[github-shield-badge]: https://img.shields.io/github/followers/feitnx1?color=FFFFFF&label=github&labelColor=black&logo=github&logoColor=white&style=for-the-badge
